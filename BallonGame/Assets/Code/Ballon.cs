@@ -27,7 +27,7 @@ public class Ballon : MonoBehaviour
         if(collision.tag=="Scene")
         {
 
-            Debug.Log("First");
+            
             FindObjectOfType<GamaManager>().CreateNewScene(1);
 
 
@@ -35,7 +35,7 @@ public class Ballon : MonoBehaviour
         }
         else
         {
-            Debug.Log("2. Sahne");
+            
             FindObjectOfType<GamaManager>().CreateNewScene(2);
         }
 
