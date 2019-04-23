@@ -63,7 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Code\Ballon.cs" />
-    <Compile Include="Assets\Code\GamaManager.cs" />
+    <Compile Include="Assets\Code\Endless.cs" />
+    <Compile Include="Assets\GamaManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/onryl/OneDrive/Documents/BallonGame/BallonGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
